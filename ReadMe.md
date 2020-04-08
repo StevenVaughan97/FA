@@ -1,1 +1,1 @@
-[Link to FizzBuzz](SJVRH6_RESTFUL_API.md)
+[Link to FizzBuzz](FizzBuzz)
